@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sentry97
-- 🌱 I’m currently learning mobile app development and web design for future upcoming projects.
+- 🌱 I’m currently learning mobile app development and web design for current and future upcoming projects.
 - 💞️ I’m looking to collaborate on projects and exercises that involve the same in the future.
 - 📫 email me :spliffted7@gmail.com
 
